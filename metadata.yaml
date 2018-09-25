@@ -1,11 +1,16 @@
 _repo: Telescopic-Work-for-Starlight-Evenings_57320
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57320-h/images/cover.jpg
 creator:
   author:
     agent_name: Denning, William F.
     gutenberg_agent_id: '49313'
     url: http://www.gutenberg.org/2009/agents/49313
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57320#Telescopic-Work-for-Starlight-Evenings
 gutenberg_issued: '2018-06-13'
 gutenberg_type: Text
 identifiers:
